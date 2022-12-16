@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(lightgreen, blue);
+}
+
+.p{
+    font-size: 20px;
+}
+
+#score{
+    font-size: 30;
+    margin-left: -1000;
+}
+#time{
+    font-size: 30;
+    margin-right: -1000;
+}
